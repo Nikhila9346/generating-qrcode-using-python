@@ -1,1 +1,1 @@
-# qrcodeproject
+# Geneartion-of-QRCode-using-Python
