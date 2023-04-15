@@ -1,1 +1,1 @@
-# Geneartion-of-QRCode-using-Python
+# Generation-of-QRCode-using-Python
