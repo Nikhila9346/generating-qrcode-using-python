@@ -1,1 +1,1 @@
-# Generation-of-QRCode-using-Python
+# Generating-a-Quick-Response-code-using-Python
